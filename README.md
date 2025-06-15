@@ -1,4 +1,4 @@
-## About Me
+#About Me
 
 Hi, I’m Todd — a product builder, writer, and creative generalist based in Northern California.
 
