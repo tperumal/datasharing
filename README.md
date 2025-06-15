@@ -1,5 +1,3 @@
-#About Me
-
 Hi, I’m Todd — a product builder, writer, and creative generalist based in Northern California.
 
 By day, I lead growth and platform teams at a fintech startup. By night (and weekends), I’m learning to code, writing short stories, launching side projects, and figuring out what it means to build a life that feels like mine.
